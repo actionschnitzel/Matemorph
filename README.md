@@ -6,7 +6,12 @@
 
 ![GUI](https://github.com/actionschnitzel/tingsandstuff/blob/main/Bildschirmfoto_2020-11-30_03-21-05.png)    
     
-Creates a Mate desktop on Raspi OS. Try it on a test system first !!!!!! There will be changes to the network, bluetooth and audio. The ARM and GPU are also overclocked, so get a fan.
+Creates a Mate desktop on Raspi OS. Try it on a test system first !!!!!! There will be changes to the network, bluetooth and audio. The ARM and GPU are also overclocked, so get a fan.    
+    
+
+should something still not work look here:
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=260974
 
 My test system:
 
