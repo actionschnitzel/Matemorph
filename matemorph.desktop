@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Version=0.1
+Exec=/home/pi/matemorph/start.sh
+Name=Matemorph
+GenericName=Matemorph
+Comment=System Config
+Encoding=UTF-8
+Terminal=false
+Type=Application
+Categories=System
+Icon=/home/pi/matemorph/logo.ico
+Name[de_DE]=Matemorph
